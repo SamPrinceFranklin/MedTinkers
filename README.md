@@ -7,5 +7,10 @@ TINKERS
   - Jessej Samuel
   - Akshay S
   - Mohan Sundar
+## Technologies Used:
+  - Web Scrapping
+  - Repel
+  - Google Map API
+  - Google Search API
 ## Level of Expertise
 Beginners
